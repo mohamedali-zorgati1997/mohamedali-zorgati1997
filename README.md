@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I am a Telecommunication Engineering student, I like challenging myself to learn new things. I beleive technology is here to make human lives easier so I try to create small IoT devices as personal projects and make some python scripts to get rid of repetitive tasks.  
+
 <!--
 **mohamedali-zorgati1997/mohamedali-zorgati1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
